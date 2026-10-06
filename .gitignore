@@ -1,0 +1,12 @@
+node_modules/
+
+dist/
+.astro/
+data/clients.db
+*.db
+*.sqlite
+
+.env
+
+.DS_Store
+Thumbs.db
